@@ -1,4 +1,4 @@
-python-3.11.9
+pyrofork==2.3.45
 tgcrypto
 motor
 marshmallow
