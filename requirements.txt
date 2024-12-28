@@ -1,4 +1,4 @@
-Pyrofork
+python-3.11.9
 tgcrypto
 motor
 marshmallow
